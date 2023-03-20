@@ -68,7 +68,7 @@ export default class App extends Component {
           </ul>
           </Lista>
           <P>
-            Desafio do VnW feito por <a href="https://github.com/vinicius-bispo1">Vinicius Bispo</a>
+            Desafio do VnW feito por <a href="https://github.com/vinicius-bispo1" target={"_blank"}>Vinicius Bispo</a>
           </P>
         </Container>
       
