@@ -111,6 +111,7 @@ input {
   font-size: 1em;
   border-radius: 10px 2px 2px 10px;
   border: 3px solid #2980ff;
+  outline: none;
   @media (max-width: 800px) {
       width: 50vw;
     }
